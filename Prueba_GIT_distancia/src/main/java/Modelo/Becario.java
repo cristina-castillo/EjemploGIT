@@ -7,7 +7,7 @@ public class Becario {
 
 		System.out.println("Trabajo duro del becario");
 		System.out.println("Segundo día de duro del becario");
-		
+		System.out.println("Semana de duro trabajo del becario");
 	}
 
 }
