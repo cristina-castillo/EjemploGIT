@@ -14,6 +14,7 @@ public class Principal {
 		System.out.println ("Versión GitHub");
 		
 		System.out.println ("Versión Editada por un compañero el domingo");
+		System.out.println ("Versi�n editada por un becario competente");
 	}
 
 }
