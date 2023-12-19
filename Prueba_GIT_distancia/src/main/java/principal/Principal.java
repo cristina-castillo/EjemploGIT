@@ -19,6 +19,8 @@ public class Principal {
 
 		System.out.println ("Versión editada por un becario competente");
 
+		System.out.println ("Trabajo en equipo");
+		
 	}
 
 }
